@@ -1,4 +1,4 @@
-# Exercise_trackin_app
+# Exercise_tracking_app
 The Exercise Tracking App is a web application that allows users to track their exercises and activities. It provides features for users to log in, sign up, and access their personal dashboard where they can add new activities, view exercise details, and log out.
 
 ## Features
@@ -50,7 +50,7 @@ The project follows a standard folder structure:
 <br />
 <br />
 
-![Design of add_activity page](/design/add _ctivity.png)
+![Design of add_activity page](/design/add_activity.png)
 <br />
 <br />
 

@@ -50,7 +50,7 @@ The project follows a standard folder structure:
 <br />
 <br />
 
-![Design of add_ctivity page](/design/add_ctivity.png)
+![Design of add_activity page](/design/add _ctivity.png)
 <br />
 <br />
 
